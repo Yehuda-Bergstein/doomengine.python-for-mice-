@@ -74,7 +74,8 @@ class FpsRenderer(object):
         if textureId in self.wallColors:
             rgba = self.wallColors[textureId]
         else:
-            rgba = (random.uniform(0, 1), random.uniform(0, 1), random.uniform(0, 1), 1)
+            rgba = (1, 1, 1, 0.5 )
+                ##(random.uniform(0, 1), random.uniform(0, 1), random.uniform(0, 1), 1)
             self.wallColors[textureId] = rgba
         # adjust for light level
         if lightLevel is not None: # 0 - 255
