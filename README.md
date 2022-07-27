@@ -8,7 +8,7 @@ Thanks to the great work done by jordansavant, based on the this doom engine I w
 
 In order to create the labyrinth I used the program Doom Builder (http://www.doombuilder.com/) 
 * Some screenshots are attached
-* If you would like to make changes to the labrytiun, you will need to install doom builder and open the 'DOOM.WAD' file located under 
+* If you would like to make changes to the labyrinth, you will need to install doom builder and open the 'DOOM.WAD' file located under the "wads" directory
 
 ## Changes that were made: 
 - Changed all walls in the labyrinth to a shade of gray
