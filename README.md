@@ -13,6 +13,7 @@ In order to create the labyrinth I used the program Doom Builder (http://www.doo
 ## Changes that were made: 
 - Changed all walls in the labyrinth to a shade of gray
 - Increased the resolution to 1280x720 
+- When the "UP" button is pressed the map appears, and when "DOWN" is pressed the map disappears
 - Removed all other resources in the respitory and left the bare minimum for the program to run
 
 ## Running the labryinth
